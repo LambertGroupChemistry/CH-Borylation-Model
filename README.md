@@ -1,23 +1,27 @@
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Herein we have included the jupyter notebook and required datasets to train, test, and validate our borylation prediction model.  
 
 
 ## Instructions
-### Install the required libraries
+### Install the required libraries                       
 
- &emsp;  &emsp;  &emsp;  &emsp; version 
-                       
-* python         &emsp;         3.7.7
-* pandas         &emsp;         1.1.4
-* matplotlib     &emsp;         3.1.2
-* numpy          &emsp;         1.19.4
-* seaborn        &emsp;         0.11.1
-* scikit-learn   &emsp;         1.0.2
-* imblearn       &emsp;         0.0
-* rdkit-pypi     &emsp;         2021.3.4
-* mordred        &emsp;         1.2.0
+| Library | Version |
+| :------- | ----: | 
+| python  |3.7.7    | 
+| pandas  |1.1.4   | 
+|matplotlib  |3.1.2   | 
+|numpy  | 1.19.4  | 
+|seaborn  |0.11.1  | 
+|scikit-learn  | 1.0.2   | 
+|imblearn  | 0.0  | 
+|rdkit-pypi  |2021.3.4  | 
+|mordred     |1.2.0   | 
 
- &nbsp; 1
- &ensp; 2
- &emsp; 3
+ &nbsp; 
+ &ensp; 
+ &emsp; 
+
+### Run Jupyter Notebook for Model
+
+Our machine learning model is uploaded as BorylationModel.ipynb. The training/ test set is saved under BorylationTrainingTest.csv. Additional datasets are included in support of the results section of the main article. The python code to run these datasets are included within the model jupyter notebook. 
