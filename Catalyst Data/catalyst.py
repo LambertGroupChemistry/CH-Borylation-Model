@@ -31,8 +31,8 @@ print("Buried Ir2mphen Sterimol L" , sterimol.L_value)
 print("Buried Ir2mphen Sterimol B1", sterimol.B_1_value)
 print("Buried Ir2mphen Sterimol B5", sterimol.B_5_value)
 
-#Ir4mphen catalyst
-elements, coordinates = read_geometry("Ir4mphen.gjf")
+#Irtmphen catalyst
+elements, coordinates = read_geometry("Irtmphen.gjf")
 
 bv = BuriedVolume(elements, coordinates, 61, excluded_atoms=[54,60,59,37,35,41,36,49,45,
                                                              53,58,57,31,18,17,19,23,27,
@@ -42,22 +42,22 @@ bv.print_report()
 bv.plot_steric_map(filename='Ir4mphen')
 
 pyr = Pyramidalization(coordinates, 61)
-print("Ir4mphen Pyramidalization By Agranat and Radhakrishnan", pyr.P)
-print("Ir4mphen Pyramidalization By Gavrish", pyr.P_angle)
+print("Irtmphen Pyramidalization By Agranat and Radhakrishnan", pyr.P)
+print("Irtmphen Pyramidalization By Gavrish", pyr.P_angle)
 
 sasa = SASA(elements, coordinates)
-print("Ir4mphen SASA area", sasa.area)
-print("Ir4mphen SASA voleume", sasa.volume)
+print("Irtmphen SASA area", sasa.area)
+print("Irtmphen SASA voleume", sasa.volume)
 
 sterimol = Sterimol(elements, coordinates, 61, 96)
-print("Ir4mphen Sterimol L" , sterimol.L_value)
-print("Ir4mphen Sterimol B1", sterimol.B_1_value)
-print("Ir4mphen Sterimol B5", sterimol.B_5_value)
+print("Irtmphen Sterimol L" , sterimol.L_value)
+print("Irtmphen Sterimol B1", sterimol.B_1_value)
+print("Irtmphen Sterimol B5", sterimol.B_5_value)
 
 sterimol.bury(method="delete")
-print("Buried Ir4mphen Sterimol L" , sterimol.L_value)
-print("Buried Ir4mphen Sterimol B1", sterimol.B_1_value)
-print("Buried Ir4mphen Sterimol B5", sterimol.B_5_value)
+print("Buried Irtmphen Sterimol L" , sterimol.L_value)
+print("Buried Irtmphen Sterimol B1", sterimol.B_1_value)
+print("Buried Irtmphen Sterimol B5", sterimol.B_5_value)
 
 #Irdtpby catalyst
 elements, coordinates = read_geometry("Irdtpby.gjf")
