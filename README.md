@@ -24,4 +24,4 @@ Herein we have included the jupyter notebook and required datasets to train, tes
 
 ### Run Jupyter Notebook for Model
 
-Our machine learning model is uploaded as BorylationModel.ipynb. The training/ test set is saved under BorylationTrainingTest.csv. Additional datasets are included in support of the results section of the main article. The python code to run these datasets are included within the model jupyter notebook. 
+Our machine learning model is uploaded as BorylationModel_performanceReport_rfc.ipynb. The training/ test set is saved under BorylationTrainingTest 9-26-24.csv. Additional datasets are included in support of the results section of the main article. The python code to run these datasets are included within the model jupyter notebook. 
