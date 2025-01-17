@@ -288,5 +288,31 @@ print("Buried IrtAs Sterimol L" , sterimol.L_value)
 print("Buried IrtAs Sterimol B1", sterimol.B_1_value)
 print("Buried IrtAs Sterimol B5", sterimol.B_5_value)
 
+#1,10 phenanthroline catalyst
+elements, coordinates = read_geometry("1_10_phen_Ir.gjf")
 
+bv = BuriedVolume(elements, coordinates, 61, excluded_atoms=[54,60,59,37,35,41,36,49,45,
+                                                             53,58,57,31,18,17,19,23,27,
+                                                             62,64,63,65,67,68,66,69,70],
+						             z_axis_atoms=[56,55])
+bv.print_report()
+bv.plot_steric_map(filename='Ir4mphen')
+
+pyr = Pyramidalization(coordinates, 61)
+print("1_10_phen_Ir Pyramidalization By Agranat and Radhakrishnan", pyr.P)
+print("1_10_phen_Ir Pyramidalization By Gavrish", pyr.P_angle)
+
+sasa = SASA(elements, coordinates)
+print("1_10_phen_Ir SASA area", sasa.area)
+print("1_10_phen_Ir SASA voleume", sasa.volume)
+
+sterimol = Sterimol(elements, coordinates, 61, 7)
+print("1_10_phen_Ir Sterimol L" , sterimol.L_value)
+print("1_10_phen_Ir Sterimol B1", sterimol.B_1_value)
+print("1_10_phen_Ir Sterimol B5", sterimol.B_5_value)
+
+sterimol.bury(method="delete")
+print("Buried 1_10_phen_Ir Sterimol L" , sterimol.L_value)
+print("Buried 1_10_phen_Ir Sterimol B1", sterimol.B_1_value)
+print("Buried 1_10_phen_Ir Sterimol B5", sterimol.B_5_value)
 
