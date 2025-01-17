@@ -1,0 +1,145 @@
+Active Catalyst 1 - Ir with dppe ligand
+Irdppe V_bur (%): 41.0
+Irdppe Pyramidalization By Agranat and Radhakrishnan 1.0054060967391436
+Irdppe Pyramidalization By Gavrish 10.021036772357911
+Irdppe SASA area 953.7350723407519
+Irdppe SASA voleume 2000.1775957614161
+Irdppe Sterimol L 8.885563609479645
+Irdppe Sterimol B1 5.6674832354358005
+Irdppe Sterimol B5 8.250916341698415
+Buried Irdppe Sterimol L 8.126378980018
+Buried Irdppe Sterimol B1 5.458035034205736
+Buried Irdppe Sterimol B5 7.786300256979738
+
+Active Catalyst 2 - Ir with dtpby ligand
+Irdtpby V_bur (%): 31.3
+Irdtpby Pyramidalization By Agranat and Radhakrishnan 1.0074072686099997
+Irdtpby Pyramidalization By Gavrish 10.075072895851964
+Irdtpby SASA area 972.463648944533
+Irdtpby SASA voleume 1848.0591749099492
+Irdtpby Sterimol L 9.796551090551542
+Irdtpby Sterimol B1 4.455057949873634
+Irdtpby Sterimol B5 9.176850354896988
+Buried Irdtpby Sterimol L 7.039665578943304
+Buried Irdtpby Sterimol B1 4.368734744945743
+Buried Irdtpby Sterimol B5 7.203240955557426
+
+Active Catalyst 3 - Ir with SMAP ligand
+IrSMAP V_bur (%): 19.1
+IrSMAP Pyramidalization By Agranat and Radhakrishnan 1.0033998349744921
+IrSMAP Pyramidalization By Gavrish 9.657122666177619
+IrSMAP SASA area 970.7215482231657
+IrSMAP SASA volume 1840.759012768233
+IrSMAP Sterimol L 12.674167466349742
+IrSMAP Sterimol B1 4.395740857839764
+IrSMAP Sterimol B5 7.494821312910259
+Buried IrSMAP Sterimol L 7.934411392639349
+Buried IrSMAP Sterimol B1 3.7609178082142116
+Buried IrSMAP Sterimol B5 7.174280078112619
+
+Active Catalyst 4 - Ir with 2mphen ligand
+Ir2mphen V_bur (%): 33.1
+Ir2mphen Pyramidalization By Agranat and Radhakrishnan 1.0096868094816838
+Ir2mphen Pyramidalization By Gavrish 10.148119145083976
+Ir2mphen SASA area 793.0341376296352
+Ir2mphen SASA voleume 1539.9355498267546
+Ir2mphen Sterimol L 7.088716331040732
+Ir2mphen Sterimol B1 4.042690542439885
+Ir2mphen Sterimol B5 7.543293922995522
+Buried Ir2mphen Sterimol L 6.853868087048186
+Buried Ir2mphen Sterimol B1 4.042690542439885
+Buried Ir2mphen Sterimol B5 7.213822196863695
+
+
+
+Active Catalyst 5 - Ir with 4mphen ligand
+Ir4mphen V_bur (%): 31.0
+Ir4mphen Pyramidalization By Agranat and Radhakrishnan 1.005835671378884
+Ir4mphen Pyramidalization By Gavrish 10.008229929553304
+Ir4mphen SASA area 875.3439134545938
+Ir4mphen SASA volume 1697.282210625822
+Ir4mphen Sterimol L 8.602930677438643
+Ir4mphen Sterimol B1 5.0992629039092865
+Ir4mphen Sterimol B5 7.832923246133786
+Buried Ir4mphen Sterimol L 7.116061716142266
+Buried Ir4mphen Sterimol B1 5.0992629039092865
+Buried Ir4mphen Sterimol B5 7.370866943362869
+
+Active Catalyst 6 - Ru with Cp* ligand
+RuCpstar V_bur (%): 43.1
+RuCpstar Pyramidalization By Agranat and Radhakrishnan 0.683534883307103
+RuCpstar Pyramidalization By Gavrish 10.22384447445563
+RuCpstar SASA area 735.6023812250666
+RuCpstar SASA volume 1441.37619527692
+RuCpstar Sterimol L 5.941608223667977
+RuCpstar Sterimol B1 4.790829903137417
+RuCpstar Sterimol B5 7.558608097478521
+Buried RuCPstar Sterimol L 5.941608223667977
+Buried RuCPstar Sterimol B1 4.790829903137417
+Buried RuCPstar Sterimol B5 7.2781002245392425
+
+Active Catalyst 7 - Rh with Cp* ligand
+RhCpstar V_bur (%): 41.0
+RhCpstar Pyramidalization By Agranat and Radhakrishnan 1.0599758869312044
+RhCpstar Pyramidalization By Gavrish 9.242505361357399
+RhCpstar SASA area 814.3726978915025
+RhCpstar SASA volume 1707.0858045758873
+RhCpstar Sterimol L 6.09097572755509
+RhCpstar Sterimol B1 5.055852313485934
+RhCpstar Sterimol B5 9.141999739359942
+Buried RhCpstar Sterimol L 6.09097572755509
+Buried RhCpstar Sterimol B1 5.055852313485934
+Buried RhCpstar Sterimol B5 7.624077210991633
+
+Active Catalyst 8 - Ir with 5Phbpy ligand
+Ir5Phbpy V_bur (%): 31.5
+Ir5Phbpy Pyramidalization By Agranat and Radhakrishnan 1.0067989481751258
+Ir5Phbpy Pyramidalization By Gavrish 10.055474193579535
+Ir5Phbpy SASA area 865.8848734012778
+Ir5Phbpy SASA voleume 1670.0534065821155
+Ir5Phbpy Sterimol L 10.720754542399662
+Ir5Phbpy Sterimol B1 3.790305113620793
+Ir5Phbpy Sterimol B5 7.47854175065835
+Buried Ir5Phbpy Sterimol L 7.945193557557766
+Buried Ir5Phbpy Sterimol B1 3.790305113620793
+Buried Ir5Phbpy Sterimol B5 7.180500082122987
+
+
+
+Active Catalyst 9 - Ir with AsPh3 ligand
+IrmphenPh V_bur (%): 42.3
+IrmphenPh Pyramidalization By Agranat and Radhakrishnan 1.012144052379793
+IrmphenPh Pyramidalization By Gavrish 10.256185192199467
+IrmphenPh SASA area 1036.2356997467523
+IrmphenPh SASA volume 2245.188275174163
+IrtAs Sterimol B1 5.534177631816572
+IrtAs Sterimol B5 8.33779382089893
+Buried IrtAs Sterimol L 7.821148945719294
+Buried IrtAs Sterimol B1 5.3564994748654025
+Buried IrtAs Sterimol B5 8.012947018104835
+
+Active Catalyst 10 - Ir with 1,10 phenantholine ligand
+1_10_phen_Ir V_bur (%): 31.1
+1_10_phen_Ir Pyramidalization By Agranat and Radhakrishnan 1.0053544510522299
+1_10_phen_Ir Pyramidalization By Gavrish 9.989159524609367
+1_10_phen_Ir SASA area 800.7640021563194
+1_10_phen_Ir SASA voleume 1528.098236135932
+1_10_phen_Ir Sterimol L 7.991781201918778
+1_10_phen_Ir Sterimol B1 4.130384506191724
+1_10_phen_Ir Sterimol B5 7.430431486257314
+Buried 1_10_phen_Ir Sterimol L 7.567489221628744
+Buried 1_10_phen_Ir Sterimol B1 4.130384506191724
+Buried 1_10_phen_Ir Sterimol B5 7.088515843604997
+
+Active Catalyst 11 - Ir with dmpe ligand
+V_bur (%): 38.2
+Irdmpe Pyramidalization By Agranat and Radhakrishnan 1.0026381386658825
+Irdmpe Pyramidalization By Gavrish 9.85882009341362
+Irdmpe SASA area 744.9124297802402
+Irdmpe SASA voleume 1486.6832421340773
+Irdmpe Sterimol L 6.28807569930259
+Irdmpe Sterimol B1 4.123745162825238
+Irdmpe Sterimol B5 7.537368073924831
+Buried Irdmpe Sterimol L 6.28807569930259
+Buried Irdmpe Sterimol B1 4.123745162825238
+Buried Irdmpe Sterimol B5 7.196668858307643
