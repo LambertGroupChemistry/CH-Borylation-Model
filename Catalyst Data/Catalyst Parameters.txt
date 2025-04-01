@@ -52,7 +52,7 @@ Buried Ir2mphen Sterimol B5 7.213822196863695
 
 
 
-Active Catalyst 5 - Ir with 4mphen ligand
+Active Catalyst 5 - Ir with tmphen ligand
 Ir4mphen V_bur (%): 31.0
 Ir4mphen Pyramidalization By Agranat and Radhakrishnan 1.005835671378884
 Ir4mphen Pyramidalization By Gavrish 10.008229929553304
