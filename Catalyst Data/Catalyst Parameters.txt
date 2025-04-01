@@ -53,17 +53,17 @@ Buried Ir2mphen Sterimol B5 7.213822196863695
 
 
 Active Catalyst 5 - Ir with tmphen ligand
-Ir4mphen V_bur (%): 31.0
-Ir4mphen Pyramidalization By Agranat and Radhakrishnan 1.005835671378884
-Ir4mphen Pyramidalization By Gavrish 10.008229929553304
-Ir4mphen SASA area 875.3439134545938
-Ir4mphen SASA volume 1697.282210625822
-Ir4mphen Sterimol L 8.602930677438643
-Ir4mphen Sterimol B1 5.0992629039092865
-Ir4mphen Sterimol B5 7.832923246133786
-Buried Ir4mphen Sterimol L 7.116061716142266
-Buried Ir4mphen Sterimol B1 5.0992629039092865
-Buried Ir4mphen Sterimol B5 7.370866943362869
+Irtmphen V_bur (%): 31.0
+Irtmphen Pyramidalization By Agranat and Radhakrishnan 1.005835671378884
+Irtmphen Pyramidalization By Gavrish 10.008229929553304
+Irtmphen SASA area 875.3439134545938
+Irtmphen SASA volume 1697.282210625822
+Irtmphen Sterimol L 8.602930677438643
+Irtmphen Sterimol B1 5.0992629039092865
+Irtmphen Sterimol B5 7.832923246133786
+Buried Irtmphen Sterimol L 7.116061716142266
+Buried Irtmphen Sterimol B1 5.0992629039092865
+Buried Irtmphen Sterimol B5 7.370866943362869
 
 Active Catalyst 6 - Ru with Cp* ligand
 RuCpstar V_bur (%): 43.1
